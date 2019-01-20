@@ -1,0 +1,2 @@
+# Zoe
+A discord bot
