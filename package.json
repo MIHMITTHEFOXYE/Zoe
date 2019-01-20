@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "discord.js": "^11.4.2",
+        "discord.js-commando": "^0.10.0",
+        "fs": "0.0.1-security",
+        "superagent": "^4.1.0"
+    }
+}
